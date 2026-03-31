@@ -584,7 +584,7 @@ az keyvault purge --name kv-cloudpi-{env}
 For questions or issues:
 - Review [DEPLOYMENT.md](DEPLOYMENT.md) troubleshooting section
 - Check Azure activity logs in portal
-- Contact: trey.morgan@nichesoft.ai
+- Contact: support@cloudpi.ai
 
 ---
 
